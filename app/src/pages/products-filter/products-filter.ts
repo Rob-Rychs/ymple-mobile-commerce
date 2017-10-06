@@ -20,7 +20,7 @@ export class ProductsFilterPage {
         "isChecked":false
       },
       { 
-        "name":"Fulfilled by vPlanet",
+        "name":"Fulfilled by Ymple",
         "isChecked":true
       },
       { 

@@ -1,5 +1,5 @@
 <h1>
-<a href="https://www.ymple.com"><img alt="Ymple Ecommerce" src="https://www.ymple.com/img/colors/blue/logo_big.png" title="Ymple Ecommerce"/></a>
+<a href="https://www.ymple.com"><img alt="Ymple M-commerce" src="https://www.ymple.com/img/colors/blue/logo_big.png" title="Ymple Ecommerce"/></a>
 </h1>
 
 
@@ -16,7 +16,7 @@ It's intended to be a fully engaged community project, and we're greatly welcomi
 System Dependencies
 --------
 
-* Ionic
+* Ionic Cli 3.12.0
 
 
 How To Run
