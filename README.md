@@ -6,7 +6,7 @@
 Version 0.1.0 (2017.10)
 
 
-### [app.ymple.com](http://app.ymple.com/)
+### [mobile.ymple.com](http://mobile.ymple.com/)
 
 
 Open Source Mobile Commerce Solution for M-Commerce built with Ionic
